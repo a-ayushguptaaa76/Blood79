@@ -147,6 +147,12 @@ A stateful micromouse controller using local wall mapping, encoder-jitter tolera
 
 ---
 
+## 🗂️ Project Index
+
+See [Projects](projects/README.md) for the complete portfolio project index.
+
+---
+
 ## 📊 GitHub Snapshot
 
 <div align="center">
